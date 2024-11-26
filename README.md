@@ -1,3 +1,5 @@
+![Classification](https://img.shields.io/badge/classification-%20public-white)
+
 # Junior engineer 2nd round
 
 **Table of Contents**
